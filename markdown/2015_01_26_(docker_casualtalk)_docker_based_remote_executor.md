@@ -16,6 +16,13 @@ slidenumbers: true
 
 ---
 
+# ![inline 350%](http://www.smartstudy.co.kr/static/image/icon/company.png)
+
+## Daekwon Kim
+### SMARTSTUDY Software & System Engineer
+
+---
+
 # Codewars
 
 ![fit](http://i.imgur.com/Y9Qh4yE.png)
